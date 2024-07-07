@@ -1,1 +1,1 @@
-This project harnesses advanced Time Series Analysis techniques to predict stock prices, centered on historical data from Bajaj Finserv (BAJAJFINSV). Time series forecasting is indispensable in financial analysis, offering predictive insights into future price movements derived from comprehensive analysis of historical trends and patterns.
+
